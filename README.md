@@ -6,7 +6,7 @@ A practical reference entry for product and engineering: the awesome-data-analys
 
 ## Images
 
-[![awesome-data-analysis](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![awesome-data-analysis](images/preview.png)](https://github.com/Swift-Tech-Co/awesome-data-analysis)
 
 ## 📑 Contents
 
@@ -1030,7 +1030,6 @@ ogrammatically.
 - OpenWork - Open-source desktop alternative to Claude Cowork for running agents, skills, and MCP locally with team collaboration features.
 - DeepAnalyze - Agentic LLM for autonomous data science, which can autonomously complete a wide range of data-centric tasks without human intervention.
 
-
 #### Development Frameworks & Tools
 
 - LangChain - Framework for developing applications powered by language models.
@@ -1770,7 +1769,7 @@ See CONTRIBUTING.md for how to add resources.
 
 ## 📜 License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://www.swifttechco.com)
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://github.com/Swift-Tech-Co/awesome-data-analysis)
 
 This work is dedicated to the public domain under the CC0 1.0 Universal license.
 
@@ -1790,13 +1789,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/awesome-data-analysis
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [PavelGrigoryevDS/awesome-data-analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
